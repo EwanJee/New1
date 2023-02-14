@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac StdStats.java
  *  Execution:    java StdStats < input.txt

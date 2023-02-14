@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac Draw.java
  *  Execution:    java Draw

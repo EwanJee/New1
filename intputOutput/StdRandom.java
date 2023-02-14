@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac StdRandom.java
  *  Execution:    java StdRandom

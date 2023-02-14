@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac BinaryOut.java
  *  Execution:    java BinaryOut

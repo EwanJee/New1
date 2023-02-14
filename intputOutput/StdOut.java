@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac StdOut.java
  *  Execution:    java StdOut

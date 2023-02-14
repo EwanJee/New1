@@ -1,3 +1,4 @@
+package intputOutput;
 /******************************************************************************
  *  Compilation:  javac Stopwatch.java
  *  Execution:    java Stopwatch n
